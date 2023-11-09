@@ -4,7 +4,7 @@ This free GitHub project provides a Unity Ads Manager plugin, along with its Uni
 
 The example game is a simple clicker game, where players tap the button to upgrade their score. The demo game manager has commented-out Unity Ads implementation, so you can easily follow along with my YouTube video tutorial to learn how to implement ads in your own games.
 
-    You can download the unity package from above as well if you only need the plugin.
+    You can download the Unity Package from above as well if you only need the plugin.
 
 This plugin is perfect for Unity developers of all skill levels, who want to add ads to their games in a simple and efficient way.
 
