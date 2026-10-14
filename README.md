@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src=".github/assets/hero.svg" width="100%" alt="Unity Ads Manager: the demo clicker game shows a banner during play, an interstitial after game over, and a rewarded ad from the Multiplier button">
+<img src=".github/assets/hero.svg" width="100%" alt="Unity Ads Manager: the demo clicker game shows Unity's test ads: a banner during play, an interstitial after game over, and a rewarded ad from the Multiplier button">
 
 <br><br>
 
@@ -112,7 +112,7 @@ Select **AdsManager** in the Hierarchy and fill in the Inspector:
 > [!IMPORTANT]
 > The prefab ships with the demo game's Game IDs. Replace them with your own, or your impressions are credited to the demo project instead of yours.
 
-Press **Play**. The Console should show `Ads Initialized...`, `Banner Ad Loaded` and `Interstitial Ad Loaded`.
+Press **Play**. The Console should show `Ads Initialized...`, `Banner Ad Loaded` and `Interstitial Ad Loaded`. In the Editor, Unity shows test ads instead of real ones: a grey bar that says *This would be your banner*, and a full-screen *This screen would be your Ad Unit. Everything seems to be working!* with **Close** (and **Skip**, if the ad allows skipping).
 
 ### 5. Show ads from your code
 
@@ -204,7 +204,7 @@ The Unity Ads package isn't installed. Do [step 1](#1-install-the-unity-ads-pack
 <summary><b>Nothing happens in the Editor</b></summary>
 <br>
 
-Check that your build target is Android or iOS (*File › Build Settings*). Unity Ads doesn't run on the PC/Mac/Linux target. In the Editor you'll see Unity's placeholder ads, not real ones.
+Check that your build target is Android or iOS (*File › Build Settings*). Unity Ads doesn't run on the PC/Mac/Linux target. In the Editor you'll see Unity's test screens (*This screen would be your Ad Unit*), not real ads. Real test ads only show in a build on a phone.
 
 </details>
 
@@ -262,6 +262,6 @@ Found a bug or want another ad format? [Open an issue](https://github.com/iammir
 
 <br>
 
-<sub>Made by <a href="https://github.com/iammirrr">Mir</a>. Unity and Unity Ads are trademarks of Unity Technologies. This plugin isn't made or endorsed by Unity.<br>The artwork is built from the demo game's own sprites, background and Luckiest Guy font (by Astigmatic, Apache 2.0).</sub>
+<sub>Made by <a href="https://github.com/iammirrr">Mir</a>. Unity and Unity Ads are trademarks of Unity Technologies. This plugin isn't made or endorsed by Unity.<br>The artwork is built from the demo game's own sprites, background and Luckiest Guy font (by Astigmatic, Apache 2.0), and the ad screens are Unity Ads' own Editor test ads.</sub>
 
 </div>
