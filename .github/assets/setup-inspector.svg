@@ -1,0 +1,122 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760" width="1200" height="760" role="img" aria-label="Setup: the AdsManager prefab in the Unity Inspector. Paste your Android and iOS Game IDs into Initialize Ads, keep Is Testing on while developing, and leave the default ad unit IDs unless yours differ. The Console then shows Ads Initialized, Banner Ad Loaded and Interstitial Ad Loaded.">
+<title>Setup: the AdsManager prefab in the Unity Inspector. Paste your Android and iOS Game IDs into Initialize Ads, keep Is Testing on while developing, and leave the default ad unit IDs unless yours differ. The Console then shows Ads Initialized, Banner Ad Loaded and Interstitial Ad Loaded.</title>
+<defs>
+<style>@font-face{font-family:'LG';src:url(data:font/woff2;base64,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) format('woff2');}
+.lg{font-family:'LG','Luckiest Guy','Arial Black',Impact,sans-serif}
+.ui{font-family:'Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Arial,sans-serif}
+.mono{font-family:ui-monospace,'Cascadia Code',Consolas,'SF Mono',Menlo,monospace}
+.out{paint-order:stroke fill;stroke:#2A0B3A;stroke-linejoin:round}
+.fb{transform-box:fill-box;transform-origin:center}
+
+.old1{animation:old1 10s infinite}
+@keyframes old1{0%,8%{opacity:1}9%,98%{opacity:0}100%{opacity:1}}
+.sel1{opacity:0;animation:sel1 10s infinite}
+@keyframes sel1{0%,3%{opacity:0}4%,8%{opacity:1}9%,100%{opacity:0}}
+.old2{animation:old2 10s infinite}
+@keyframes old2{0%,22%{opacity:1}23%,98%{opacity:0}100%{opacity:1}}
+.sel2{opacity:0;animation:sel2 10s infinite}
+@keyframes sel2{0%,18%{opacity:0}19%,22%{opacity:1}23%,100%{opacity:0}}
+.new1,.new2{opacity:0}
+.new1{animation:new1 10s infinite}
+@keyframes new1{0%,8.9%{opacity:0}9%,97%{opacity:1}98%,100%{opacity:0}}
+.new2{animation:new2 10s infinite}
+@keyframes new2{0%,22.9%{opacity:0}23%,97%{opacity:1}98%,100%{opacity:0}}
+.type1{animation:type1 10s infinite steps(7,end)}
+@keyframes type1{0%,9%{transform:translateX(0)}17%,100%{transform:translateX(70px)}}
+.type2{animation:type2 10s infinite steps(7,end)}
+@keyframes type2{0%,23%{transform:translateX(0)}31%,100%{transform:translateX(70px)}}
+.ring{opacity:0;animation:ring 10s infinite ease-out}
+@keyframes ring{0%,36%{opacity:0;transform:scale(.6)}38%{opacity:1;transform:scale(1)}46%{opacity:0;transform:scale(1.9)}100%{opacity:0}}
+.call1{animation:hl1 10s infinite}
+@keyframes hl1{0%,3%{transform:translateX(0)}5%,31%{transform:translateX(-10px)}34%,100%{transform:translateX(0)}}
+.call2{animation:hl2 10s infinite}
+@keyframes hl2{0%,35%{transform:translateX(0)}37%,47%{transform:translateX(-10px)}50%,100%{transform:translateX(0)}}
+.l1,.l2,.l3{opacity:0}
+.l1{animation:l1 10s infinite}
+@keyframes l1{0%,52%{opacity:0;transform:translateY(8px)}54%,96%{opacity:1;transform:translateY(0)}99%,100%{opacity:0}}
+.l2{animation:l2 10s infinite}
+@keyframes l2{0%,60%{opacity:0;transform:translateY(8px)}62%,96%{opacity:1;transform:translateY(0)}99%,100%{opacity:0}}
+.l3{animation:l3 10s infinite}
+@keyframes l3{0%,66%{opacity:0;transform:translateY(8px)}68%,96%{opacity:1;transform:translateY(0)}99%,100%{opacity:0}}
+.caret{animation:blink 1s infinite steps(1)}
+@keyframes blink{50%{opacity:0}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}.dot{display:none}}@media (prefers-reduced-motion:reduce){.l1,.l2,.l3,.new1,.new2{opacity:1}.old1,.old2{opacity:0}}</style>
+
+<radialGradient id="sky" cx="0.5" cy="0.5" r="0.75">
+  <stop offset="0" stop-color="#3BE3FF"/><stop offset="0.55" stop-color="#12C2F2"/><stop offset="1" stop-color="#0A78C2"/>
+</radialGradient>
+<linearGradient id="btn" x1="0" y1="0" x2="0" y2="1">
+  <stop offset="0" stop-color="#FFF68A"/><stop offset="0.5" stop-color="#FFCF45"/><stop offset="1" stop-color="#F2900F"/>
+</linearGradient>
+
+<clipPath id="frame"><rect width="1200" height="760" rx="28"/></clipPath>
+<clipPath id="f1"><rect x="302" y="275" width="380" height="26"/></clipPath>
+<clipPath id="f2"><rect x="302" y="311" width="380" height="26"/></clipPath>
+
+</defs>
+<g clip-path="url(#frame)">
+<rect width="1200" height="760" fill="url(#sky)"/>
+<circle cx="420" cy="380" r="220" fill="none" stroke="#fff" stroke-opacity=".08" stroke-width="3"/>
+<circle cx="420" cy="380" r="360" fill="none" stroke="#fff" stroke-opacity=".08" stroke-width="3"/>
+<circle cx="420" cy="380" r="520" fill="none" stroke="#fff" stroke-opacity=".08" stroke-width="3"/>
+<circle cx="420" cy="380" r="700" fill="none" stroke="#fff" stroke-opacity=".08" stroke-width="3"/>
+<rect x="52" y="54" width="660" height="680" rx="10" fill="#2A0B3A" opacity=".3"/>
+<rect x="40" y="40" width="660" height="680" rx="10" fill="#383838" stroke="#191919" stroke-width="2"/>
+<path d="M40 80 V50 a10 10 0 0 1 10 -10 H690 a10 10 0 0 1 10 10 V80 Z" fill="#282828"/>
+<path d="M40 80 V50 a10 10 0 0 1 10 -10 H170 V80 Z" fill="#383838"/>
+<circle cx="62" cy="60" r="8" fill="none" stroke="#D2D2D2" stroke-width="1.6"/><path d="M62 57 v7 M62 54 v.5" stroke="#D2D2D2" stroke-width="1.8" stroke-linecap="round"/>
+<text class="ui" x="78" y="66" font-size="15" fill="#D2D2D2">Inspector</text>
+<circle cx="668" cy="60" r="1.8" fill="#9A9A9A"/><circle cx="676" cy="60" r="1.8" fill="#9A9A9A"/><circle cx="660" cy="60" r="1.8" fill="#9A9A9A"/>
+<rect x="41" y="80" width="658" height="74" fill="#3C3C3C"/>
+<path d="M72 92 l16 9 v18 l-16 9 l-16 -9 v-18 Z" fill="#4A9BE8" stroke="#BFE0FF" stroke-width="2" stroke-linejoin="round"/><path d="M56 101 l16 9 l16 -9 M72 110 v18" fill="none" stroke="#BFE0FF" stroke-width="2" stroke-linejoin="round"/>
+<rect x="104" y="96" width="18" height="18" rx="3" fill="#4A9BE8"/><path d="M108 105 l4 4 l7 -8" stroke="#fff" stroke-width="2.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="132" y="92" width="400" height="26" rx="3" fill="#2A2A2A" stroke="#212121"/>
+<text class="ui" x="142" y="111" font-size="16" fill="#D2D2D2">AdsManager</text>
+<text class="ui" x="602" y="111" font-size="14" fill="#D2D2D2">Static</text><rect x="652" y="96" width="18" height="18" rx="3" fill="#2A2A2A" stroke="#212121"/>
+<text class="ui" x="104" y="144" font-size="14" fill="#9A9A9A">Tag</text><text class="ui" x="138" y="144" font-size="14" fill="#D2D2D2">Untagged</text>
+<text class="ui" x="380" y="144" font-size="14" fill="#9A9A9A">Layer</text><text class="ui" x="424" y="144" font-size="14" fill="#D2D2D2">Default</text>
+<rect x="41" y="160" width="658" height="36" fill="#3E3E3E"/><line x1="41" y1="160" x2="699" y2="160" stroke="#232323" stroke-width="2"/><path d="M57 172 l8 6 l-8 6 Z" fill="#D2D2D2"/><path d="M84 170 v16 M76 178 h16" stroke="#D2D2D2" stroke-width="2"/><text class="ui" x="104" y="184" font-size="16" font-weight="700" fill="#D2D2D2">Transform</text>
+<rect x="41" y="196" width="658" height="36" fill="#3E3E3E"/><line x1="41" y1="196" x2="699" y2="196" stroke="#232323" stroke-width="2"/><path d="M57 208 l8 6 l-8 6 Z" fill="#D2D2D2"/><rect x="76" y="205" width="15" height="18" rx="2" fill="#5E8CC2"/><text class="mono" x="79" y="219" font-size="12" font-weight="700" fill="#fff">#</text><rect x="100" y="205" width="18" height="18" rx="3" fill="#4A9BE8"/><path d="M104 214 l4 4 l7 -8" stroke="#fff" stroke-width="2.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/><text class="ui" x="128" y="220" font-size="16" font-weight="700" fill="#D2D2D2">Ads Manager (Script)</text>
+<rect x="41" y="232" width="658" height="36" fill="#3E3E3E"/><line x1="41" y1="232" x2="699" y2="232" stroke="#232323" stroke-width="2"/><path d="M56 246 l10 0 l-5 9 Z" fill="#D2D2D2"/><rect x="76" y="241" width="15" height="18" rx="2" fill="#5E8CC2"/><text class="mono" x="79" y="255" font-size="12" font-weight="700" fill="#fff">#</text><rect x="100" y="241" width="18" height="18" rx="3" fill="#4A9BE8"/><path d="M104 250 l4 4 l7 -8" stroke="#fff" stroke-width="2.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/><text class="ui" x="128" y="256" font-size="16" font-weight="700" fill="#D2D2D2">Initialize Ads (Script)</text>
+<text class="ui" x="78" y="293" font-size="16" fill="#D2D2D2">Android Game Id</text><rect x="300" y="275" width="384" height="28" rx="3" fill="#2A2A2A" stroke="#212121"/>
+<text class="ui" x="78" y="329" font-size="16" fill="#D2D2D2">Ios Game Id</text><rect x="300" y="311" width="384" height="28" rx="3" fill="#2A2A2A" stroke="#212121"/>
+<text class="ui" x="78" y="365" font-size="16" fill="#D2D2D2">Is Testing</text>
+<rect x="300" y="349" width="22" height="22" rx="3" fill="#4A9BE8"/><path d="M305 360 l5 5 l8 -10" stroke="#fff" stroke-width="2.6" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<g transform="translate(311 360)"><circle class="ring fb" r="20" fill="none" stroke="#FFC21A" stroke-width="4"/></g>
+<g clip-path="url(#f1)">
+<rect class="sel1" x="308" y="280" width="64" height="19" fill="#2C5D87"/>
+<text class="ui old1" x="310" y="294" font-size="16" fill="#D2D2D2">5448315</text>
+<g class="new1"><text class="ui" x="310" y="294" font-size="16" fill="#fff">1234567</text>
+<g class="type1"><rect x="308" y="277" width="90" height="24" fill="#2A2A2A"/><rect class="caret" x="309" y="281" width="1.8" height="17" fill="#fff"/></g></g>
+</g>
+<g clip-path="url(#f2)">
+<rect class="sel2" x="308" y="316" width="64" height="19" fill="#2C5D87"/>
+<text class="ui old2" x="310" y="330" font-size="16" fill="#D2D2D2">5448314</text>
+<g class="new2"><text class="ui" x="310" y="330" font-size="16" fill="#fff">1234568</text>
+<g class="type2"><rect x="308" y="313" width="90" height="24" fill="#2A2A2A"/><rect class="caret" x="309" y="317" width="1.8" height="17" fill="#fff"/></g></g>
+</g>
+<rect x="41" y="380" width="658" height="36" fill="#3E3E3E"/><line x1="41" y1="380" x2="699" y2="380" stroke="#232323" stroke-width="2"/><path d="M56 394 l10 0 l-5 9 Z" fill="#D2D2D2"/><rect x="76" y="389" width="15" height="18" rx="2" fill="#5E8CC2"/><text class="mono" x="79" y="403" font-size="12" font-weight="700" fill="#fff">#</text><rect x="100" y="389" width="18" height="18" rx="3" fill="#4A9BE8"/><path d="M104 398 l4 4 l7 -8" stroke="#fff" stroke-width="2.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/><text class="ui" x="128" y="404" font-size="16" font-weight="700" fill="#D2D2D2">Banner Ads (Script)</text>
+<text class="ui" x="78" y="441" font-size="16" fill="#D2D2D2">Android Ad Unit Id</text><rect x="300" y="423" width="384" height="28" rx="3" fill="#2A2A2A" stroke="#212121"/><text class="ui" x="310" y="442" font-size="16" fill="#D2D2D2">Banner_Android</text>
+<text class="ui" x="78" y="477" font-size="16" fill="#D2D2D2">Ios Ad Unit Id</text><rect x="300" y="459" width="384" height="28" rx="3" fill="#2A2A2A" stroke="#212121"/><text class="ui" x="310" y="478" font-size="16" fill="#D2D2D2">Banner_iOS</text>
+<rect x="41" y="492" width="658" height="36" fill="#3E3E3E"/><line x1="41" y1="492" x2="699" y2="492" stroke="#232323" stroke-width="2"/><path d="M56 506 l10 0 l-5 9 Z" fill="#D2D2D2"/><rect x="76" y="501" width="15" height="18" rx="2" fill="#5E8CC2"/><text class="mono" x="79" y="515" font-size="12" font-weight="700" fill="#fff">#</text><rect x="100" y="501" width="18" height="18" rx="3" fill="#4A9BE8"/><path d="M104 510 l4 4 l7 -8" stroke="#fff" stroke-width="2.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/><text class="ui" x="128" y="516" font-size="16" font-weight="700" fill="#D2D2D2">Interstitial Ads (Script)</text>
+<text class="ui" x="78" y="553" font-size="16" fill="#D2D2D2">Android Ad Unit Id</text><rect x="300" y="535" width="384" height="28" rx="3" fill="#2A2A2A" stroke="#212121"/><text class="ui" x="310" y="554" font-size="16" fill="#D2D2D2">Interstitial_Android</text>
+<text class="ui" x="78" y="589" font-size="16" fill="#D2D2D2">Ios Ad Unit Id</text><rect x="300" y="571" width="384" height="28" rx="3" fill="#2A2A2A" stroke="#212121"/><text class="ui" x="310" y="590" font-size="16" fill="#D2D2D2">Interstitial_iOS</text>
+<rect x="41" y="604" width="658" height="36" fill="#3E3E3E"/><line x1="41" y1="604" x2="699" y2="604" stroke="#232323" stroke-width="2"/><path d="M56 618 l10 0 l-5 9 Z" fill="#D2D2D2"/><rect x="76" y="613" width="15" height="18" rx="2" fill="#5E8CC2"/><text class="mono" x="79" y="627" font-size="12" font-weight="700" fill="#fff">#</text><rect x="100" y="613" width="18" height="18" rx="3" fill="#4A9BE8"/><path d="M104 622 l4 4 l7 -8" stroke="#fff" stroke-width="2.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/><text class="ui" x="128" y="628" font-size="16" font-weight="700" fill="#D2D2D2">Rewarded Ads (Script)</text>
+<text class="ui" x="78" y="665" font-size="16" fill="#D2D2D2">Android Ad Unit Id</text><rect x="300" y="647" width="384" height="28" rx="3" fill="#2A2A2A" stroke="#212121"/><text class="ui" x="310" y="666" font-size="16" fill="#D2D2D2">Rewarded_Android</text>
+<text class="ui" x="78" y="701" font-size="16" fill="#D2D2D2">Ios Ad Unit Id</text><rect x="300" y="683" width="384" height="28" rx="3" fill="#2A2A2A" stroke="#212121"/><text class="ui" x="310" y="702" font-size="16" fill="#D2D2D2">Rewarded_iOS</text>
+<path d="M688 303 H752" fill="none" stroke="#2A0B3A" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="688" cy="303" r="6" fill="#FFC21A" stroke="#2A0B3A" stroke-width="3"/>
+<g class="call1"><rect x="752" y="238" width="408" height="128" rx="18" fill="#2A0B3A"/><rect x="752" y="232" width="408" height="128" rx="18" fill="#fff" stroke="#2A0B3A" stroke-width="4"/><text class="lg" x="776" y="270" font-size="22" fill="#2A0B3A">GAME IDS</text><text class="ui" x="776" y="298" font-size="16" fill="#2A0B3A">Paste your own, from the Unity Ads</text><text class="ui" x="776" y="320" font-size="16" fill="#2A0B3A">dashboard. The prefab ships with the</text><text class="ui" x="776" y="342" font-size="16" fill="#2A0B3A">demo game's IDs.</text></g>
+<path d="M330 360 H724 V420 H752" fill="none" stroke="#2A0B3A" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="330" cy="360" r="6" fill="#FFC21A" stroke="#2A0B3A" stroke-width="3"/>
+<g class="call2"><rect x="752" y="386" width="408" height="106" rx="18" fill="#2A0B3A"/><rect x="752" y="380" width="408" height="106" rx="18" fill="#fff" stroke="#2A0B3A" stroke-width="4"/><text class="lg" x="776" y="418" font-size="22" fill="#2A0B3A">TEST MODE</text><text class="ui" x="776" y="446" font-size="16" fill="#2A0B3A">Leave it on while you build.</text><text class="ui" x="776" y="468" font-size="16" fill="#2A0B3A">Turn it off for your release build.</text></g>
+<path d="M690 422 V710 M690 566 H752" fill="none" stroke="#2A0B3A" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<g class=""><rect x="752" y="518" width="408" height="106" rx="18" fill="#2A0B3A"/><rect x="752" y="512" width="408" height="106" rx="18" fill="#fff" stroke="#2A0B3A" stroke-width="4"/><text class="lg" x="776" y="550" font-size="22" fill="#2A0B3A">AD UNIT IDS</text><text class="ui" x="776" y="578" font-size="16" fill="#2A0B3A">Already set to Unity's defaults.</text><text class="ui" x="776" y="600" font-size="16" fill="#2A0B3A">Change them only if yours differ.</text></g>
+<rect x="752" y="634" width="408" height="98" rx="10" fill="#282828" stroke="#191919" stroke-width="2"/>
+<path d="M752 660 V644 a10 10 0 0 1 10 -10 H850 V660 Z" fill="#383838"/>
+<text class="ui" x="768" y="653" font-size="13" fill="#D2D2D2">Console</text>
+<g class="l1"><circle cx="774" cy="674" r="7" fill="#D8D8D8"/><path d="M774 670 v5 M774 678 v.5" stroke="#282828" stroke-width="2" stroke-linecap="round"/><text class="ui" x="790" y="679" font-size="14" fill="#D2D2D2">Ads Initialized...</text></g>
+<g class="l2"><circle cx="774" cy="696" r="7" fill="#D8D8D8"/><path d="M774 692 v5 M774 700 v.5" stroke="#282828" stroke-width="2" stroke-linecap="round"/><text class="ui" x="790" y="701" font-size="14" fill="#D2D2D2">Banner Ad Loaded</text></g>
+<g class="l3"><circle cx="774" cy="718" r="7" fill="#D8D8D8"/><path d="M774 714 v5 M774 722 v.5" stroke="#282828" stroke-width="2" stroke-linecap="round"/><text class="ui" x="790" y="723" font-size="14" fill="#D2D2D2">Interstitial Ad Loaded</text></g>
+</g>
+</svg>
