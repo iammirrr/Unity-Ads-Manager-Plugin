@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src=".github/assets/hero.svg" width="100%" alt="Unity Ads Manager: a phone running the demo clicker game cycles through a banner, an interstitial and a rewarded ad">
+<img src=".github/assets/hero.svg" width="100%" alt="Unity Ads Manager: the demo clicker game shows a banner during play, an interstitial after game over, and a rewarded ad from the Multiplier button">
 
 <br><br>
 
@@ -262,6 +262,6 @@ Found a bug or want another ad format? [Open an issue](https://github.com/iammir
 
 <br>
 
-<sub>Made by <a href="https://github.com/iammirrr">Mir</a>. Unity and Unity Ads are trademarks of Unity Technologies. This plugin isn't made or endorsed by Unity.<br>The artwork uses the Luckiest Guy font by Astigmatic, licensed under Apache 2.0.</sub>
+<sub>Made by <a href="https://github.com/iammirrr">Mir</a>. Unity and Unity Ads are trademarks of Unity Technologies. This plugin isn't made or endorsed by Unity.<br>The artwork is built from the demo game's own sprites, background and Luckiest Guy font (by Astigmatic, Apache 2.0).</sub>
 
 </div>
